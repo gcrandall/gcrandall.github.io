@@ -1,3 +1,3 @@
-##Gabriel's Github Site
+Gabriel's Github Site
 
 Hello.
